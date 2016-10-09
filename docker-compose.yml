@@ -1,4 +1,0 @@
-node1:
-    build: .
-    ports:
-        - "9091"
