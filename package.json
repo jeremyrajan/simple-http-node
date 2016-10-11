@@ -1,6 +1,6 @@
 {
   "name": "simple-http-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A thin wrapper around node http",
   "main": "index.js",
   "scripts": {
@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/jeremyrajan/simple-http-node/issues"
   },
-  "homepage": "https://github.com/jeremyrajan/simple-http-node#readme",
-  "dependencies": {
-    "director": "^1.2.8"
-  }
+  "homepage": "https://github.com/jeremyrajan/simple-http-node#readme"
 }
