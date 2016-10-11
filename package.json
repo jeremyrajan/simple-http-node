@@ -1,0 +1,28 @@
+{
+  "name": "simple-http-node",
+  "version": "1.0.0",
+  "description": "A thin wrapper around node http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyrajan/simple-http-node.git"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "server",
+    "https"
+  ],
+  "author": "jeremy rajan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremyrajan/simple-http-node/issues"
+  },
+  "homepage": "https://github.com/jeremyrajan/simple-http-node#readme",
+  "dependencies": {
+    "director": "^1.2.8"
+  }
+}
